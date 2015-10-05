@@ -21,6 +21,6 @@
   "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
   "license": "ISC",
   "dependencies": {
-    "electron-prebuilt": "0.33.4"
+    "electron-prebuilt": "0.33.5"
   }
 }
