@@ -1,6 +1,6 @@
 # electron-open
 
-> Load a webpage in an [Electron](http://electron.atom.io) shell
+> Open a webpage in an [Electron](http://electron.atom.io) shell
 
 ## Install
 
