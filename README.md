@@ -1,16 +1,16 @@
 # electron-open
 
-Quickly open a URL in an [Electron](http://electron.atom.io) shell from your Terminal!
+> Load a webpage in an [Electron](http://electron.atom.io) shell
 
 ## Install
 
     npm install --global electron-open
 
-## Use
+## Usage
 
-    electron-open http://localhost:3000
-    electron-open https://news.ycombinator.com
+    $ electron-open http://localhost:3000
+    $ electron-open https://news.ycombinator.com
 
 ## Licence
 
-ISC
+MIT © [Ben Evans](http://bensbit.co.uk)
