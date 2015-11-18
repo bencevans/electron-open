@@ -1,7 +1,7 @@
 {
   "name": "electron-open",
   "version": "1.0.1",
-  "description": "Open a URL in Electron (atom-shell)",
+  "description": "Open a webpage in an Electron shell",
   "main": "bin.js",
   "scripts": {
     "start": "electron bin.js",
