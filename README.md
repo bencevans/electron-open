@@ -4,7 +4,7 @@
 
 ## Install
 
-    npm install --global electron-open
+    $ npm install --global electron-open
 
 ## Usage
 
